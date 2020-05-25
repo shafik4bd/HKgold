@@ -5,17 +5,18 @@ Make With <3 <3
 
 ```
 apt install git python2
-git clone https://github.com/shafik4bd/HKGold
-cd HKGold/
+git clone https://github.com/shafik4bd/HKgold
+cd HKgold/
 pip2 install -r requirements.txt
 ```
 
 ## Login Credential For This Tool
 
+```
 Username: shafik4bd
 
 Password: HK
-
+```
 ## Contact Me
 
 
