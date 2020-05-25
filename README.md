@@ -5,20 +5,19 @@ Make With <3 <3
 
 ```
 apt install git python2
-git clone https://github.com/salibsaddaf/FacebookWolf
-cd FacebookWolf/
+git clone https://github.com/shafik4bd/HKGold
+cd HKGold/
 pip2 install -r requirements.txt
 ```
 
 ## Login Credential For This Tool
 
-Username: wolf
+Username: shafik4bd
 
-Password: salib
+Password: HK
 
 ## Contact Me
 
-Facebook: https://www.facebook.com/salib.saddaf.king
 
-Email: t1g3rgunda@gmail.com
+Email: shafiq812@merry.pink
 
