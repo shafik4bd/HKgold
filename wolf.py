@@ -1,9 +1,9 @@
 #!/usr/bin/python2
 #coding=utf-8
 
-#FacebookWolf
+#HK killer
 #Version: 1.9
-#Aurthor: Salib Saddaf
+#Aurthor: SHAFIKUL ISLAM
 
 import os,sys,time,datetime,random,hashlib,re,threading,json,urllib,cookielib,requests,mechanize
 from multiprocessing.pool import ThreadPool
@@ -51,11 +51,13 @@ def jalan(z):
 
 ##### LOGO #####
 logo = """
-\033[1;96mTool Name \033[1;93m: \033[1;92mFacebookWolf
+
+\033[1;91m======================================="""
+\033[1;96mTool Name \033[1;93m: \033[1;92m HK Kill
 \033[1;96mVersion   \033[1;93m: \033[1;92m1.9
-\033[1;96mAurthor   \033[1;93m: \033[1;92mSalid Saddaf
-\033[1;96mFacebook  \033[1;93m: \033[1;92m@salib.saddaf.king
-\033[1;96mGithub    \033[1;93m: \033[1;92m@salibsaddaf
+\033[1;96mAurthor   \033[1;93m: \033[1;92mSHAFIK
+\033[1;96mFacebook  \033[1;93m: \033[1;92m@shafik4bd
+\033[1;96mGithub    \033[1;93m: \033[1;92m@shafik4bd
 \033[1;91m======================================="""
 
 def tik():
@@ -76,8 +78,8 @@ vuln = "\033[32mVuln"
 os.system("clear")
 print logo
 
-CorrectUsername = "wolf"
-CorrectPassword = "salib"
+CorrectUsername = "SHAFIQ"
+CorrectPassword = "HK"
 
 loop = 'true'
 while (loop == 'true'):
