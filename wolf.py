@@ -52,6 +52,20 @@ def jalan(z):
 ##### LOGO #####
 logo = """
 
+
+\033[1;32;40m
+  _   _ _  __  _  ___ _ _ 
+ | | | | |/ / | |/ (_) | |
+ | |_| | ' /  | ' /| | | |
+ |  _  | . \  | . \| | | |
+ |_| |_|_|\_\ |_|\_\_|_|_|
+
+\033[1;34;40m
+ .----..-. .-.  .--.  .----..-..-. .-.
+{ {__  | {_} | / {} \ | {_  | || |/ / 
+.-._} }| { } |/  /\  \| |   | || |\ \ 
+`----' `-' `-'`-'  `-'`-'   `-'`-' `-'
+                 
 \033[1;91m======================================="""
 \033[1;96mTool Name \033[1;93m: \033[1;92m HK Kill
 \033[1;96mVersion   \033[1;93m: \033[1;92m1.9
@@ -78,14 +92,14 @@ vuln = "\033[32mVuln"
 os.system("clear")
 print logo
 
-CorrectUsername = "SHAFIQ"
+CorrectUsername = "shafik4bd"
 CorrectPassword = "HK"
 
 loop = 'true'
 while (loop == 'true'):
-    username = raw_input("\033[1;96m[☆] \x1b[1;93mUsername Of Tool \x1b[1;96m>>>> ")
+    username = raw_input("\033[1;96m[☆] \033[1;34;40mUsername Of Tool \x1b[1;96m>>>> ")
     if (username == CorrectUsername):
-    	password = raw_input("\033[1;96m[☆] \x1b[1;93mPassword Of Tool \x1b[1;96m>>>> ")
+    	password = raw_input("\033[1;96m[☆] \033[1;34;40mPassword Of Tool \x1b[1;96m>>>> ")
         if (password == CorrectPassword):
             print "Logged in successfully as " + username
             loop = 'false'
