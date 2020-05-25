@@ -1,7 +1,7 @@
 #!/usr/bin/python2
 #coding=utf-8
 
-#HK killer
+#HK.kill
 #Version: 1.9
 #Aurthor: SHAFIKUL ISLAM
 
@@ -67,7 +67,7 @@ logo = """
 `----' `-' `-'`-'  `-'`-'   `-'`-' `-'
                  
 \033[1;91m======================================="""
-\033[1;96mTool Name \033[1;93m: \033[1;92m HK Kill
+\033[1;96mToolName  \033[1;93m:  \033[1;92mHK.Kill
 \033[1;96mVersion   \033[1;93m: \033[1;92m1.9
 \033[1;96mAurthor   \033[1;93m: \033[1;92mSHAFIK
 \033[1;96mFacebook  \033[1;93m: \033[1;92m@shafik4bd
